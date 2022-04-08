@@ -2,9 +2,9 @@
 Image uploader using laravel &amp; vue.js
 
 # Download & Installation: 
-1- `git clone https://github.com/Geniue/Image-uploaded-Laravel-Vue.js.git`
+1- `git clone https://github.com/Geniue/Image-uploaded-Laravel-Vue.js.git` to preffered destination on your local. 
 
-2-  cd  Image-uploaded-Laravel-Vue.js
+2-  `cd  Image-uploaded-Laravel-Vue.js`
 
 3- `composer install && composer update`
 
